@@ -1,0 +1,23 @@
+{
+  "name": "mywebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennismuasya/mywebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dennismuasya/mywebsite/issues"
+  },
+  "homepage": "https://github.com/dennismuasya/mywebsite#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
